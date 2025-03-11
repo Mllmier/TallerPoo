@@ -1,0 +1,3 @@
+interface Reparaciones {
+    void reparacion();
+}

@@ -1,0 +1,3 @@
+interface Limpieza{
+void limpiar();
+}
